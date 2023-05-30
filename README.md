@@ -37,6 +37,13 @@ Using Youtube Video Downloader is super easy because it includes basically all t
 <p align="center">
 <img src="assets/demo.gif" height="500" >
 
+ <br/>
+
+# Download Apk
+
+<p align="center">
+<a href="https://github.com/deevsaini/yt_video_downloader_flutter/releases/download/0.0.1/app-release.apk">Click to download</a>
+
 ### Build from source
 
 - Clone this repo and then for building
